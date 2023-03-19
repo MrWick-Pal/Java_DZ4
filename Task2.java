@@ -27,7 +27,7 @@ public class Task2 {
         enqueue(que, random);
         enqueue(que, random);
         enqueue(que, random);
-        System.out.println("Текущая очередь: " + que);
+        System.out.println("Тек. очередь: " + que);
         dequeue(que);
         System.out.print("Очередь после удаления элемента: ");
         System.out.println(que);
